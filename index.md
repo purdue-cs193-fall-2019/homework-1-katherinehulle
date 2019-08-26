@@ -1,9 +1,9 @@
 # Katherine's First CS193 Homework
 
 My favorite things about CS 193:
-- The class has some pretty cool instructors
-- The class will be very helpful
-- We get lots of time to work on the homework
+-  Some pretty cool instructors
+-  Teaches very helpful tools for coding
+-  We get lots of time to work on the homework
 
 ## Welcome to GitHub Pages
 
