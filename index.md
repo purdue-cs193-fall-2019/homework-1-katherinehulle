@@ -1,7 +1,7 @@
 # Katherine's First CS193 Homework
 
 My favorite things about CS 193:
--  Some pretty cool instructors
+-  Some pretty cool instructors (and TAs!)
 -  Teaches very helpful tools for coding
 -  We get lots of time to work on the homework
 
